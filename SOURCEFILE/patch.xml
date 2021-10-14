@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <game version="0,3">
   <data>
-    <file path="C:\Users\Silvan\Desktop\Test\patch.xml" length="4111" hash="3C21AB3F87D48465FCF3F36825FF2931AC0B2C583059094D21B7EEBF2AB8AEE8" />
-    <file path="C:\Users\Silvan\Desktop\Test\SOURCEFILE\additional_tl.properties" length="27" hash="F62C5257D5400F375BE38AF66A7F1F7617D912FE724DE2394901998B2CA20838" />
     <file path="C:\Users\Silvan\Desktop\Test\SOURCEFILE\patch.xml" length="4139" hash="37ACDCAECC591246635C87FDD1A8BE067A0CBD0D6F52573D36AE837A44A7E9BA" />
+    <file path="C:\Users\Silvan\Desktop\Test\SOURCEFILE\additional_tl.properties" length="27" hash="F62C5257D5400F375BE38AF66A7F1F7617D912FE724DE2394901998B2CA20838" />
     <file path="C:\Users\Silvan\Desktop\Test\SOURCEFILE\mods\appleskin-forge-mc1.17.1-2.1.0.jar" length="45708" hash="EB200B18CBF5A805B579712431362FB7686DA1B72602C85E22B04E181C66502A" />
     <file path="C:\Users\Silvan\Desktop\Test\SOURCEFILE\mods\architectury-2.3.24-forge.jar" length="460835" hash="E3731EE33A236AD85AFAB1A8142F16E213897159215F3598B8A8CB00392765E9" />
     <file path="C:\Users\Silvan\Desktop\Test\SOURCEFILE\mods\blockui-1.17.1-0.0.26-ALPHA.jar" length="192040" hash="D68FA0F8C985791C31F91AB9AF0B60D966227C67B028E567B1A89389DA5AD5CF" />
